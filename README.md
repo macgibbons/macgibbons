@@ -28,9 +28,9 @@ JavaScript, TypeScript, React, C#, .NET, TSQL, Python
   <summary>My Github Stats :computer:</summary>
   
   <a href="https://macgibbons.github.com">
-  <img src="https://github.com/macgibbons/macgibbons/raw/main/img/coffee.png" align="right" height="275" /></a>
+  <img src="https://github.com/macgibbons/macgibbons/raw/main/img/coffee.png" align="right" height="275"  /></a>
 
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=macgibbons&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/macgibbons)
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=macgibbons&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/macgibbons)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=macgibbons&color=blue)
   ----
