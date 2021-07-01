@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3 align="center">👋 hi there!</h3>
+<h4 align="center">my name is mac – it's nice to meet you</h4>
 
-<!--
-**macgibbons/macgibbons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<!--   coming soon ... <a href="https://www.macgibbons.com">Website</a> • -->
+  <a href="https://twitter.com/mac_gibbons">Twitter</a>
+</p>
 
-Here are some ideas to get you started:
+---
+⚡️ I'm a fullstack developer from Nashville, TN. Formerly an audio engineer and touring drummer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+### currently
+- 💻 working as an   **Application Developer** 
+ - 🧐 interested in all things **React** and **TypeScript**
+ - 🌱 learning **Next.Js, GraphQL,** and **Vue**
+
+### hobbies 
+ 
+🚴🏻‍♀️   ☕️   🥁   🐶   🥗 
+
