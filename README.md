@@ -11,9 +11,13 @@
 
  
 ### currently
-- 💻 working as an   **Application Developer** 
+- 💻 working as an **Application Developer** 
  - 🧐 interested in all things **React** and **TypeScript**
  - 🌱 learning **Next.Js, GraphQL,** and **Vue**
+
+
+### tech stack
+JavaScript, TypeScript, React, C#, .NET, TSQL, Python
 
 ### hobbies 
  
