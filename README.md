@@ -13,7 +13,7 @@
 ### Things I am doing
 - 💻 working as an **Application Developer** 
  - 🧐 interested in all things **React** and **TypeScript**
- - 🌱 learning **Next.Js, GraphQL,**, **Go**, and **Vue**
+ - 🌱 learning **Next.Js, GraphQL, Go,** and **Vue**
 
 
 ### Technologies I reach for
